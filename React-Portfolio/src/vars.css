@@ -1,0 +1,12 @@
+:root {
+  /* colors */
+  --color-text: white;
+  --color-primary: #4dd8ff;
+  --color-secondary: #2d72e0;
+  --color-tertiary: #815da1;
+  --color-background: #12001d;
+
+  /* fonts */
+  --font-alice: "alice";
+  --font-outfit: "outfit";
+}
